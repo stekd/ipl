@@ -3,7 +3,7 @@
 > This folder contains files which were used while working on the project and not directly 
 related to functionality of the supposed app
 
-# | File | Description
+N | File | Description
 --- | --- | ---
 1 | ss | Bash script written for starting splunk 
 
