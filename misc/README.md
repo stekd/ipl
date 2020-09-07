@@ -9,7 +9,7 @@ N | File | Description
 
 # ss - Bash script 
 
-```
+```bash
 #!/bin/bash
 
 echo ""
