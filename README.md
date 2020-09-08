@@ -16,5 +16,5 @@ N | Folder | Description
 --- | --- | --- 
 1 | data_sets | Data used for all testing 
 2 | misc | Housekeeping | misc | Housekeeping Stuff
-3 | splscripts | Splunlk Scripts 
+3 | splscripts | Splunk Scripts 
 
