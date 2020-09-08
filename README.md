@@ -10,6 +10,8 @@ Notes of actual work done will be <a href="https://www.notion.so/Splunk-Sports-S
 
 # Folder Details 
 
+os.txt = Operating system on which splunk scripts where built 
+
 N | Folder | Description
 --- | --- | --- 
 1 | data_sets | Data used for all testing 
