@@ -12,9 +12,9 @@ Notes of actual work done will be <a href="https://www.notion.so/Splunk-Sports-S
 
 os.txt = Operating system on which splunk scripts where built 
 
-N | Folder | Description
+N | Folder | Description 
 --- | --- | --- 
-1 | data_sets | Data used for all testing 
-2 | misc | Housekeeping | misc | Housekeeping Stuff
-3 | splscripts | Splunk Scripts 
+1 | [data_sets](https://github.com/stekd/ipl/tree/master/data_sets) | Data used for all testing
+2 | [misc](https://github.com/stekd/ipl/tree/master/misc) | Housekeeping | misc | Housekeeping Stuff
+3 | [splscript](https://github.com/stekd/ipl/tree/master/splscript) | Splunk Scripts
 
