@@ -30,5 +30,5 @@ N | FileName | KaggleNotebook
 
 N | File | Description
 --- | --- | ---
-1 | iplballbyball20082019deliveries.csv | Doesnt contain time information, nost useful for predictions  
+1 | iplballbyball20082019deliveries.csv | Doesnt contain time information, not useful for predictions  
 2 | 1iplballbyball20082019matches.csv  | Contains year information
