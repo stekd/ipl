@@ -10,7 +10,6 @@ N | FileName | Description | Source
 --- | --- | --- | ---
 1 | 1iplballbyball20082019deliveries.csv | Ball by ball statistics of IPL League 2008 - 2019 of Deliveries | [HERE](https://www.kaggle.com/nowke9/ipldata) 
 2 | 1iplballbyball20082019matches.csv | Ball by ball statistics of IPL League 2008 - 2019 of Matches | [HERE](https://www.kaggle.com/nowke9/ipldata)
-3 | 2iplballbyball.csv | IPL Ball By Ball Analysis | [HERE](https://www.kaggle.com/littleraj30/indian-premier-league-2019-ball-by-ball)
 
 
 ## Data Exploration 
@@ -20,6 +19,8 @@ has links to the notebooks being used to explore the data - This process in data
 EDA = Exploratory Data Analysis  
 
 Preliminary EDA will be done with python before moving into splunk. 
+
+Analysis being done in the notebooks will then be translated to work in splunk.
 
 N | FileName | KaggleNotebook
 --- | --- | ---
