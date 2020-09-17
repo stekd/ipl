@@ -17,4 +17,4 @@ N | Folder | Description
 1 | [data_sets](https://github.com/stekd/ipl/tree/master/data_sets) | Data used for all testing
 2 | [misc](https://github.com/stekd/ipl/tree/master/misc) | Housekeeping | misc | Housekeeping Stuff
 3 | [splscript](https://github.com/stekd/ipl/tree/master/splscript) | Splunk Scripts
-
+4 | [bkpn]() | Draft work on data sets as kaggle notebooks
