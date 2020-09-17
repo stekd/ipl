@@ -26,4 +26,7 @@ git add .
 git commit -m . 
 git push -u origin master 
 
+echo " "
+echo " "
+echo " "
 echo " DONE "
